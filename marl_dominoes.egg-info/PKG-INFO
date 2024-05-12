@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: marl_dominoes
+Version: 0.0.0
+Summary: Reproducible research for multi-agent reinforcement learning in the game of dominoes.
+Home-page: https://github.com/ebezzam/python-dev-tips
+Author: Bruno Zorrilla
+Author-email: brunozm92@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+Requires-Dist: open_spiel
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: hydra-core
+Requires-Dist: tqdm
+
+# marl_dominoes
+using open_spiel to train and test various MARL algorithms on dominoes

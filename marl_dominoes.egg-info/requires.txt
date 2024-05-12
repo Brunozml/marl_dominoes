@@ -1,0 +1,6 @@
+open_spiel
+numpy
+scipy
+matplotlib
+hydra-core
+tqdm
